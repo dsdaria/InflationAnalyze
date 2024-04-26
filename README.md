@@ -7,3 +7,6 @@
 
 
 streamlit-application.py - скрип, реализующий логику веб-сервиса
+
+
+https://inflationanalyze.streamlit.app
